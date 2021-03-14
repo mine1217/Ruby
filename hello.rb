@@ -1,1 +1,0 @@
-puts 'Hello, World!' #puts->メソッド 'Hello World'->引数(St)

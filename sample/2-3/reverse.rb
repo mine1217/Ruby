@@ -1,0 +1,1 @@
+puts "WEBCAMP".reverse #逆から

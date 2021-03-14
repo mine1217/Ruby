@@ -1,0 +1,1 @@
+puts "WEBCAMP".length #"WEBCAMP"は文字列オブジェクト　javaのStringっぽい .lengthは引数無しのメソッド
